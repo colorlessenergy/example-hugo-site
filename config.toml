@@ -1,6 +1,7 @@
 # Site settings
 baseurl = "/"
 themesDir = "themes"
+publishDir = "docs"
 languageCode = "en-us"
 title = "simple blog"
 theme = "cactus"
