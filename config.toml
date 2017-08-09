@@ -1,7 +1,6 @@
 # Site settings
-baseurl = "https://colorlessenergy.github.io/example-hugo-site/"
+baseurl = "/"
 themesDir = "themes"
-publishDir = "docs"
 languageCode = "en-us"
 title = "simple blog"
 theme = "cactus"
